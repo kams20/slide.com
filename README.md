@@ -1,2 +1,2 @@
-# slide.com
+# slide
 just for fun :)
